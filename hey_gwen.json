@@ -3,7 +3,7 @@
   "wake_word": "hey_gwen",
   "author": "Michael",
   "website": "",
-  "model": "https://raw.githubusercontent.com/woessmich/wakeword/refs/heads/main/hey_gwen.tflite",
+  "model": "hey_gwen.tflite",
   "trained_languages": ["de"],
   "version": 2,
   "micro": {
