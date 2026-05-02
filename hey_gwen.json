@@ -1,0 +1,13 @@
+{
+  "type": "micro",
+  "wake_word": "hey_gwen",
+  "author": "Michael",
+  "website": "",
+  "model": "hey_gwen.tflite",
+  "trained_languages": ["en"],
+  "version": 2,
+  "settings": {
+    "probability_cutoff": 0.65,
+    "sliding_window_average_size": 10
+  }
+}
