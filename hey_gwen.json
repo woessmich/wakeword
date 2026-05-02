@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey_gwen",
   "author": "Michael",
-  "website": "",
+  "website": "http://none.com",
   "model": "hey_gwen.tflite",
   "trained_languages": [
     "en"
