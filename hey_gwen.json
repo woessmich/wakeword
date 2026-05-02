@@ -1,15 +1,15 @@
 {
   "type": "micro",
   "wake_word": "hey_gwen",
-  "author": "Tater Totterson",
-  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
+  "author": "Michael",
+  "website": "https://github.com/woessmich/wakeword",
   "model": "hey_gwen.tflite",
   "trained_languages": [
     "en"
   ],
   "version": 2,
   "micro": {
-    "probability_cutoff": 0.97,
+    "probability_cutoff": 0.90,
     "sliding_window_size": 5,
     "feature_step_size": 10,
     "tensor_arena_size": 30000,
