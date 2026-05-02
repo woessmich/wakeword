@@ -3,7 +3,7 @@
   "wake_word": "hey_gwen",
   "author": "Tater Totterson",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
-  "model": "hey_gwen.tflite",
+  "model": "hey_gwen_tate.tflite",
   "trained_languages": [
     "en"
   ],
