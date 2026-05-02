@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey_gwen",
   "author": "Michael",
-  "website": "http://none.com",
+  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon",
   "model": "hey_gwen.tflite",
   "trained_languages": [
     "en"
